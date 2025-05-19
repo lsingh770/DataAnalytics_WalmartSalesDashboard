@@ -85,7 +85,14 @@ Using Vizro’s model-based architecture, multiple dashboards are created with a
 
 ## 📷 Demo
 
-*Include a screen recording or GIF here of the dashboard running if available.*
+![Capture04](https://github.com/user-attachments/assets/0cbcb053-3501-4e1c-9368-22e57e0add69)
+
+![Capture05](https://github.com/user-attachments/assets/bc988704-df12-43fa-8ecb-64fbad6a7b76)
+
+![Capture06](https://github.com/user-attachments/assets/3c7f6d07-9f8b-499e-bf04-c33a56f0322d)
+
+![Capture03](https://github.com/user-attachments/assets/3b9a250f-478c-4faa-8252-da17b1d462d5)
+
 
 ---
 
